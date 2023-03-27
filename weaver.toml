@@ -1,0 +1,8 @@
+[serviceweaver]
+binary = "./crm"
+
+[gke]
+regions = ["europe-west2"]
+public_listener = [
+  {name = "crm", hostname = "crm.example.com"},
+]
