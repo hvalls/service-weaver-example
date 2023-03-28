@@ -2,6 +2,8 @@
 
 This is a "hello world" example to illustrate how [Service Weaver](https://serviceweaver.dev) framework works.
 
+![Diagram](diagram.png)
+
 Run locally:
 
 ```
