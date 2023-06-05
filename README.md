@@ -16,3 +16,5 @@ Deploy in Google Kubernetes Service:
 ```
 $ weaver gke deploy weaver.toml
 ```
+
+This code belongs to my blog post [](https://hvalls.dev/posts/service-weaver).
